@@ -1,0 +1,76 @@
+
+
+.show-image {
+    background-color: aliceblue;
+    height: 300px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
+.show-info {
+    background-color: aliceblue;
+    height: 500px;
+    margin: -20px 50px;
+    border-radius: 10px;
+}
+
+.contact-bgrn > .icon i {
+    color: aliceblue;
+    font-size: 3em;
+    margin: -40px;
+    
+    
+}
+
+.contact-bgrn {
+    background: url(../images/background/background\ contact.jpg);
+    padding: 80px;
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.show-image > .people-image #pic {
+    height: 215px;
+    margin: 40px 480px;
+    border-radius: 8px;
+    border: 1px solid #cea135;
+    
+}
+
+.people-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-info {
+    display: flex;
+    justify-content: space-around;
+}
+
+.people-text > .text-Name {
+    font-family: 'Ubuntu Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.people-text > .text-info i {
+    font-size: 1.7em;
+
+}
+
+.people-text > .text-info {
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.text-info p {
+    margin-bottom: 80px;
+}
